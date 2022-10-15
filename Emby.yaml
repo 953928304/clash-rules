@@ -55,6 +55,6 @@ payload:
   - DOMAIN-KEYWORD,misakaf
   - DOMAIN-KEYWORD,polo
   - DOMAIN-KEYWORD,infinityfly
-  - IP-CIDR,161.97.148.156/24
-  - IP-CIDR,45.83.244.99
-  - IP-CIDR,139.162.119.154
+  - IP-CIDR,161.97.148.156/24，no-reslove
+  - IP-CIDR,45.83.244.99/20,no-reslove 
+  - IP-CIDR,139.162.119.154/20,no-relove 
