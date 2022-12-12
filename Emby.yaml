@@ -1,9 +1,4 @@
-# name: Emby
-# REPO: https://github.com/953928304/clash-rules
-# DOMAIN-KEYWORD: 11
-# DOMAIN-SUFFIX: 38
-# IP-CIDR: 3
-# TOTAL: 52
+
 payload:
   - DOMAIN-SUFFIX,ha.jmsooo.com
   - DOMAIN-SUFFIX,cf.jmsooo.com
@@ -12,25 +7,6 @@ payload:
   - DOMAIN-SUFFIX,catfishemby.club
   - DOMAIN-SUFFIX,infinity.top
   - DOMAIN-SUFFIX,emby-pub1.blueseacdn
-  - DOMAIN-SUFFIX,emby.cjpc.cc
-  - DOMAIN-SUFFIX,emby.cjpc.tv
-  - DOMAIN-SUFFIX,emby.cjpc.xyz
-  - DOMAIN-SUFFIX,emby.cristiamo.top
-  - DOMAIN-SUFFIX,emby.flowercloud.yt
-  - DOMAIN-SUFFIX,emby.immtel.com
-  - DOMAIN-SUFFIX,emby.maying.club
-  - DOMAIN-SUFFIX,emby.mcwy.me
-  - DOMAIN-SUFFIX,emby.mdss.cloud
-  - DOMAIN-SUFFIX,emby.neko.edu.rs
-  - DOMAIN-SUFFIX,emby.nexitally.com
-  - DOMAIN-SUFFIX,emby.nyancat.net
-  - DOMAIN-SUFFIX,emby.ok.edu.hk
-  - DOMAIN-SUFFIX,emby.paoche.ooo
-  - DOMAIN-SUFFIX,emby.prprcloud.com
-  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,emby.xeton.dev
-  - DOMAIN-SUFFIX,emby.ytoo.li
-  - DOMAIN-SUFFIX,embyserver.ga
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
@@ -45,3 +21,4 @@ payload:
   - IP-CIDR,161.97.148.156/24
   - IP-CIDR,45.83.244.99/20
   - IP-CIDR,139.162.119.154/20 
+  - IP-CIDR,114.80.36.60
